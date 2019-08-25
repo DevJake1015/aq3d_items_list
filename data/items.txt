@@ -3190,7 +3190,7 @@
 { id: 3932, name: 'Broken Trophy', type: 8, rarity: undefined, colour: '', colour2: '', availability: '', url_m: '', url_f: '' },
 { id: 3934, name: 'Squirt Gun', type: 11, rarity: 4, colour: '', colour2: '', availability: '', url_m: '', url_f: 'https://cdn.discordapp.com/attachments/604208621538115598/614892635093729331/squirt-gun_F1.PNG' },
 { id: 3935, name: 'Axe of Fins', type: 10, rarity: 4, colour: '', colour2: '', availability: '', url_m: '', url_f: 'https://cdn.discordapp.com/attachments/604208621538115598/615215005545005061/axe-of-fins_F1.PNG' },
-{ id: 3936, name: 'Mali\'s Wake', type: 10, rarity: 4, colour: '', colour2: '', availability: '', url_m: '', url_f: '' },
+{ id: 3936, name: 'Mali\'s Wake', type: 10, rarity: 4, colour: '', colour2: '', availability: '', url_m: '', url_f: 'https://cdn.discordapp.com/attachments/604208621538115598/615234837887844353/malis-wake_F1.PNG' },
 { id: 3937, name: 'Scepter of Fins', type: 10, rarity: 4, colour: '', colour2: '', availability: '', url_m: '', url_f: 'https://cdn.discordapp.com/attachments/604208621538115598/615215034011877407/scepter-of-fins_F1.PNG' },
 { id: 3938, name: 'Kua Fu\'s Dagger', type: 10, rarity: 4, colour: '', colour2: '', availability: '', url_m: '', url_f: 'https://cdn.discordapp.com/attachments/604431906133508117/614893340143517700/kua-fus-dagger_F1.PNG' },
 { id: 3939, name: 'Black Cat', type: 12, rarity: 4, colour: '', colour2: '', availability: '', url_m: '', url_f: '' },
