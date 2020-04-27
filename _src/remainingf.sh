@@ -1,3 +1,3 @@
 #!/bin/sh
-exec > ./../data/items_remaining_f.txt
+exec > ./../store/items_remaining_f.txt
 node ./remaining.js
