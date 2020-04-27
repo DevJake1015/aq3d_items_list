@@ -25,14 +25,19 @@
 38 | Adventurer's Belt
 39 | Mage Hood
 40 | Ancient Necromancer Hood
+43 | Classic Paladin Armor
 45 | Paladin Gauntlets
 47 | Blinding Light of Destiny
 49 | Rogue Gloves
+50 | Adventurer's Sword
+51 | Adventurer's Dagger
+52 | Adventurer's Staff
 55 | Azure Sword
 56 | Crimson Sword
 57 | Verdant Sword
 58 | Goldie Sword
 59 | Doom Ripper
+60 | Midas' Curse
 61 | Skull Duggery
 62 | Darkest Dawn
 63 | Wicked Joke
@@ -56,11 +61,14 @@
 89 | Bone Bladed Dagger
 90 | Soulborne Axe
 91 | Royal Defender Helm
+101 | Gravedigger's Coat
+103 | Gravedigger's Gloves
 104 | Shovel Blade
 111 | Super Sword of Hope
 113 | Fake Guardian Armor
 116 | Sworn Guardian Armor
 118 | Sworn Guardian Shoulderplates
+123 | Guardian Belt 
 124 | Copy Of Guardian Belt 
 133 | Superior Spiked Shoulderpads
 134 | Paper Horn
@@ -75,9 +83,11 @@
 143 | Cerulean Tunic
 144 | Scarlet Tunic
 145 | Red Dragon Plate
+146 | Russet Leather Outfit
 147 | Royal Guard Uniform
 148 | Royal Guard Gauntlets
 149 | Boots of the Royal Guard
+150 | Night Guard Uniform
 151 | Gauntlets of the Night Guard
 152 | Night Guard Boots
 153 | Night Guard Helm
@@ -97,8 +107,10 @@
 168 | Llussion's Tunic
 169 | Llussion's Footwraps
 170 | Llussion's Wristbands
+171 | Inquisitor's Robe
 172 | Gilded Research Robes
 173 | Heavy Belt
+174 | Traveler's Belt
 175 | Warlord's Mace
 176 | Sneevil Skewer
 177 | Keen Alpha Pirate Boots
@@ -122,8 +134,11 @@
 201 | Mage Sash
 202 | Rogue Leather Belt
 203 | Mage Casting Gloves
+204 | Mage Shoes
+205 | Traveler's Outfit
 206 | Heavy Gloves
 207 | The Bridge Keeper's Chop Chop
+208 | Stone Gauntlets
 209 | Withering Sash
 214 | BOX-ing Gloves
 215 | Wolfskin Belt
@@ -132,6 +147,7 @@
 220 | Wolfskin Boots
 221 | Blue Eye Leather Robe
 222 | Sturdy Leather Boots
+223 | Azure Vestment
 224 | Leaf Tunic
 225 | Crimson Outfit
 226 | Apprentice's Tunic
@@ -141,6 +157,7 @@
 230 | Elite Dragon Blade
 231 | Legion
 232 | Dried Slime
+234 | Old Quiver
 235 | Back Cape Scarf
 237 | Llussion Cape
 238 | Red Cape
@@ -153,8 +170,14 @@
 245 | Faith's Armor
 246 | Faith's Boots
 247 | Faith's Gloves
+254 | Pale Shroud
+255 | Crusty Innkeeper's Clothes
 256 | Slimy Gloves
+257 | Ebon Talon Armor
+258 | Ebon Talon Greaves
+259 | Ebon Talon Gloves
 260 | Fiery Wings
+261 | Silvered Talon Armor
 262 | Silvered Talon Greaves
 263 | Silvered Talon Gloves
 264 | Oroku Uniform
@@ -186,10 +209,19 @@
 300 | Basic Cape
 301 | Capestarter
 304 | Blue Cape
+305 | Green Cape
+306 | White Cape
 310 | Used Sword
+311 | Torn Blue Sash
+312 | Mac'Gyver'd Gloves
+313 | Dented Iron Helmet
 316 | 2P Blade
 317 | 2P Cape
 318 | Dark Wings
+324 | Wolf Handler's Gloves
+326 | Tegmina Cloak
+327 | Medicine Pouch
+333 | Wayker's Root Staff
 336 | Acid Worn Blade
 337 | Exoblade
 338 | Chitin Piercer
@@ -208,40 +240,54 @@
 381 | Bold Wolf Fur Cape
 382 | Wolf Leather Mantle
 383 | Pointy Crown
+384 | King Sneed's Crown
 385 | Bloody Wolf Fur Cape
 386 | Bright Wolf Fur Cape
+389 | Solid Shell Shoulderplates
+390 | Spiked Shell Shoulderplates
+391 | Shiny Shell Shoulderplates
+396 | Stiff Pale Shroud
+397 | Silent Pale Shroud
+398 | Soft Pale Shroud
 400 | White Staff
-403 | Guardian Dragon Armor
-404 | Guardian Dragon Gloves
-405 | Guardian Dragon Boots
-406 | Guardian Dragon Belt
-407 | Guardian Dragon Helmet
-408 | Guardian Dragon Shoulder
-409 | Guardian Dragon Wings
 410 | Decayed Dragon's Bane
+411 | Nightlocke Scytheblade
+412 | Nightlocke War Staff
+413 | Nightlocke War Axe
 420 | Dark Mage Robe
 421 | Dark Mage Hood
+422 | Zealot Robe
+423 | Zealot Cowl
+425 | Optical Mantle
+426 | Zombie Hide Cover
 430 | Bug Zapper
+431 | Rugged Sash
+432 | Rapid Sash
+433 | Radiant Sash
 438 | Lava Fists
 441 | Brutal Horn
+442 | Brain Slime
+443 | Deathly Zed Sword
+447 | Cadaver Cutter
+448 | Spiky Sneevil Basher
+449 | Driftwood Staff
+456 | The Bridge Keeper's Axe
 459 | Miner's Hat
 461 | Lit
 462 | RealVik
 463 | Vamper
 464 | ViK2
+471 | Patched Hat
 472 | Pickaxe
 473 | Shovel
 474 | Hero's Wrap of Honor
+475 | Dark Warrior Mantle
+476 | Crimson Mage Robes
 477 | Crimson Mage Cowl
 478 | Wood Smasher
 479 | Twilight Wolf Boots
+480 | Red Leather Belt
 481 | Red Eye Poker
-502 | KS Founder Guardian I
-503 | KS Founder Guardian Gloves
-504 | KS Founder Guardian Boots
-505 | KS Founder Guardian Belt
-506 | KS Founder Guardian Helm
-507 | KS Founder Guardian Shoulders
 508 | KS Founder Warrior
 509 | KS Founder Mage
 510 | KS Founder Rogue
@@ -249,11 +295,32 @@
 512 | KS Founder Bracers
 513 | Chipped Tooth Dagger
 514 | Thin Paper Gloves
+519 | Shadowed Blood Armor
+520 | Shadowed Blood Boots
+521 | Shadowed Blood Gloves
+522 | Shadowed Blood Belt
+523 | Shadowed Blood Helm
+524 | Shadowed Blood Shoulders
+525 | Shadowed Plate
+526 | Shadowed Plate Boots
+527 | Shadowed Plate Gloves
+528 | Shadowed Plate Belt
+530 | Shadowed Plate Shoulders
+531 | Acolyte of Hope
+532 | Shadowed Armor
+533 | Shadowed Boots
+534 | Shadowed Gloves
+535 | Shadowed Belt
 536 | War Torn Cloak
+537 | Shadowed Mask
+538 | Shadowed Shoulders
 539 | Warbrand Axe
 540 | Warbrand Cape
 541 | Warbrand Staff
 542 | Warbrand Sword
+543 | Shadowed Nightlocke War Axe
+544 | Shadowed Nightlocke War Staff
+545 | Shadowed Nightlocke Scytheblade
 549 | Pumpkin Lord Armor
 550 | Pumpkin Lord Boots
 551 | Pumpkin Lord Gloves
@@ -267,7 +334,21 @@
 559 | Witch Gloves
 560 | Witch Cape
 561 | Artix's Red Cape
+562 | DragonSlayer Armor
+563 | DragonSlayer Boots
+564 | DragonSlayer Gloves
+565 | DragonSlayer Belt
+566 | DragonSlayer Cloak
+567 | Galanoth's Helm
+568 | DragonSlayer Helm
+569 | DragonSlayer Shoulders
 574 | Witch Hat
+575 | Wolf Knight Armor
+576 | Wolf Knight Boots
+577 | Wolf Knight Gloves
+578 | Wolf Knight Belt
+579 | Wolf Knight Helm
+580 | Wolf Knight Shoulders
 581 | Noble's Waistcoat
 582 | Noble's Belt
 583 | Noble's Boots
@@ -278,18 +359,23 @@
 589 | Ninja Gloves
 590 | Ninja Belt
 591 | Ninja Shoulders
+592 | Classic Necromancer Robes
 593 | Original  Necromancer Gloves
 594 | Ninja Hood
 595 | Guardian Mage Armor
 596 | Guardian Mage Gloves
 597 | Guardian Mage Hood
 598 | Guardian Mage Shoulders
+599 | Shadowed Plate Helm
 600 | Corrupted Brain Slime
 601 | Noble's Hat
 602 | Spooky Witch Robe
 603 | Spooky Witch Hat
 604 | Spooky Witch Cape
 605 | Witch's Staff
+607 | Guardian Blade II
+608 | Guardian Blade III
+609 | Guardian Blade IV
 610 | Bodyspray Axe
 611 | Thief's Dagger
 612 | Long Dagger
@@ -302,6 +388,7 @@
 621 | The Unholy Avenger DC
 622 | Grampy's Leather Boots
 623 | Worn Cloak
+625 | Beholder Blade
 626 | Beta Blade
 631 | Grass Cutter
 632 | Heavy Chopper
@@ -337,7 +424,10 @@
 704 | Coldstar Staff
 705 | Wrapped Frostval Staff
 706 | Iceborn Crusher
+707 | Frozen Core Blade
 708 | Yettun's Icy Cleaver
+709 | Yettun Horns
+710 | Frostval Elf Suit
 711 | Frostval Elf Boots
 712 | Frostval Elf Gloves
 713 | Frostval Elf Belt
@@ -351,9 +441,19 @@
 726 | Red Elf Mantle
 727 | Red Elf Wrap
 728 | Impulsive Cloak
+729 | Drake Hunter Flame Tabard
+731 | Drake Hunter Boots
+732 | Drake Hunter Gauntlets
+733 | Drake Hunter Belt
+734 | Drake Hunter Helm
+735 | Drake Hunter Pauldrons
 736 | Dragon Stalker Flame Tabard
 737 | Dragon Stalker Boots
+738 | Dragon Stalker Gauntlets
 739 | Dragon Stalker Helm
+740 | Dragon Stalker Pauldrons
+741 | Dragon Stalker Belt
+742 | Furnace Blade
 743 | Lava Lamp Mace
 744 | Red Moglin Ears
 745 | Anime Impulse Cape
@@ -383,6 +483,8 @@
 769 | Guilt of Yumi
 770 | Reckoning
 771 | Blue Moglin Ears
+772 | Drake Hunter Gold Tabard
+773 | Drake Hunter Sky Tabard
 774 | Dragon Stalker Sky Tabard
 775 | Dragon Stalker Gold Tabard
 776 | BloodKnight's Short Sword
@@ -391,47 +493,122 @@
 789 | Shrade's Doom Machete
 790 | Shrade's Hood & Mask
 791 | Shrade's Mask
+792 | Shrade's Skin
 793 | Shrade's Chains
 794 | Shrade's Boots
 796 | Burnt Sash
 798 | Cysero's Dragon Cloak
+800 | Drickenchaser Axe
 801 | Recruit's Blade
+802 | Pumice Pommel Mace
 803 | Charred Lance
+804 | Flameproof Wood
+806 | Furnace Knight Armor
+807 | Furnace Knight Belt
+808 | Furnace Knight Boots
+809 | Furnace Knight Gloves
+810 | Furnace Knight Forge
+811 | Furnace Knight Helm
+812 | Furnace Knight Spaulders
+813 | Ashbrand Armor
+814 | Ashbrand Boots
+815 | Ashbrand Gloves
+816 | Ashbrand Pauldrons
+817 | Ashbrand Belt
+818 | DrickenChaser Cape
 819 | Lvl 15 Sword
 820 | Azrael Sword
+821 | Iron DragonSlayer Axe
+822 | Iron DragonSlayer Warhammer
+823 | Iron DragonSlayer Mace
+824 | Iron DragonSlayer Sword
 828 | Warhammer of Screenshots
+829 | Senna's Leather Belt
+832 | Kord's Recruit Helm
+840 | Dragon Blade
+841 | Kord's Initiate Sword
+842 | Galanoth's Training Lance
+843 | Ashbrand Helm
 844 | Galanoth's Guardian Blade
 845 | Guardian Blade V
+847 | Guardian Shoulderplates II
+848 | Guardian Helm II
 849 | Guardian Dragon Wings II
 850 | Guardian Dragon Shoulder II
 851 | Guardian Dragon Helmet II
+852 | Scale Slayer Armor
+853 | Scale Slayer Belt
+854 | Scale Slayer Greaves
+855 | Scale Slayer Gauntlets
+856 | DrickenSlayer Cape
+857 | Forged Ashbrand Pauldrons
+858 | Forged Ashbrand Helm
+859 | Scale Slayer Helm
+860 | Scale Slayer Shoulders
 861 | The Scale Slayer
+862 | The Scale Slayer Companion
+871 | Drake Hunter Gold Cloak
+872 | Drake Hunter Sky Cloak
+873 | Drake Hunter Flame Cloak
 880 | GDC Blade
 882 | Legion's Visage
 883 | Dark Legion's Visage
+884 | Pale Visage
+885 | Sheathed Soul Reaver
 886 | Katana of the Soul Reaver
 887 | Legion's Soul Spike
 907 | Molten Forged Greatsword
+908 | Magma Greatsword
+909 | Crimson Battle Staff
 910 | Legion Dragon Sword
+916 | Crimson Battle Mage Robe
+917 | Crimson Battle Mage Belt
+918 | Crimson Battle Mage Boots
+919 | Crimson Battle Mage Gloves
+920 | Crimson Battle Mage Cowl
+921 | Crimson Battle Mage Pauldrons
 922 | Crimson Prowler Armor
 923 | Silver Prowler Armor
 924 | Prowler Belt
 925 | Crimson Prowler Boots
 926 | Silver Prowler Boots
 927 | Crimson Prowler Gloves
+928 | Silver Prowler Gloves
 929 | Prowler Hood
 930 | Chaos Infused Dagger
 931 | Worm Slicer
 932 | Dwarven Foreman's Hammer
 933 | Scorched Soul
 934 | Excavator
+935 | Molten Excavator
+936 | Precious Crystal Dagger
+937 | Precious Crystal Runed Dagger
 938 | Precious Crystal Sword
 939 | Precious Crystal Lance
 940 | Precious Crystal Staff
+941 | Dwarven Foreman Armor
+942 | Dwarven Miner Armor
+943 | Dwarven Miner Belt
+944 | Dwarven Foreman Boots
+945 | Dwarven Miner Boots
+946 | Dwarven Foreman Gloves
+947 | Dwarven Miner Gloves
+948 | Dwarven Foreman Helm
+949 | Dwarven Miner Helm
+950 | Dwarven Miner Shoulders
 951 | Worm Cleaver
+965 | Crystal Mining Pickaxe
 970 | Furnace Hammer
 971 | Heated Shoulderplates
+972 | Gaudy Brimston Villager Clothing
+973 | Villager's Sash
+974 | Hardened Shackles
+975 | Malthas Hide Cape
+976 | Purple Brimston Villager Clothing
+977 | Blue Villager Clothing
+981 | Dravir Soldier Spear
 982 | Shard Encrusted Fists
+986 | Brimston Emblem Cape
 987 | Slifsgaard's Kickstarter Weapon
 990 | Zakaru's Blade
 991 | Windborne Spike
@@ -459,6 +636,8 @@
 1013 | Yggdrasil
 1014 | Well of Infinity
 1015 | Ronan’s Longsword
+1019 | Crimson Staff of the Abyss
+1020 | Staff of Infernal Teleportation
 1030 | Blue Star Sword
 1031 | Red Star Sword
 1034 | Niten’ichi
@@ -466,6 +645,7 @@
 1036 | Battleon Militia Helm
 1037 | Defender Knight Shield
 1038 | Defender Knight Armor
+1039 | Defender Knight Belt
 1040 | Defender Knight Boots
 1041 | Defender Knight Gloves
 1042 | Defender Knight Pauldrons
@@ -481,6 +661,7 @@
 1055 | Battleon Militia Gloves
 1056 | Defender Knight Sword
 1057 | Defender Rogue Armor
+1058 | Defender Rogue Belt
 1059 | Defender Rogue Boots
 1060 | Defender Rogue Gloves
 1061 | Defender Rogue Cape
@@ -520,6 +701,8 @@
 1105 | Denim Villager Clothing
 1106 | Khaki Villager Clothing
 1107 | Green Villager Clothing
+1108 | Gifted Armor
+1109 | Gifted Blade
 1112 | Dim Night
 1113 | Dark Night
 1114 | Darker Night
@@ -561,11 +744,14 @@
 1177 | Elvenguard Gloves
 1178 | Elvenguard Helm
 1179 | Elvenguard Shoulders
+1180 | Black Raven Head Morph
 1181 | Ornate Nightlocke War Axe
 1182 | Ornate Nightlocke Scytheblade
+1183 | Black Raven Wings
 1184 | Plutocrat Belt
 1185 | Plutocrat Boots
 1186 | Plutocrat Long Coat
+1187 | Plutocrat Gloves
 1188 | Banker's Top Hat
 1189 | Top Hat & Monocle
 1190 | Monocle
@@ -588,6 +774,8 @@
 1213 | Light Keystaff
 1214 | Darkness Keystaff
 1215 | Crimson Keystaff
+1216 | Vault Keeper's Robes
+1217 | The Letter Opener
 1218 | Brutal Defender Armor
 1219 | Dragon Champion Armor
 1220 | Dragon Champion Wrap
@@ -606,11 +794,18 @@
 1234 | GreenGuard QuickBlade
 1235 | GreenGuard Staff
 1236 | Azkashi Fistblade
+1237 | Fire Mage Robe
+1238 | Fire Mage Boots
+1239 | Fire Mage Gloves
+1240 | Fire Mage Cape
 1241 | Fire Mage Hat
+1242 | Fire Mage Mantle
+1243 | Fire Mage Sash
 1244 | Golden Guitar Axe
 1245 | Molten Staff
 1246 | Forevermore Sword
 1247 | Cat Ears
+1248 | Staff of the Fire Mage
 1249 | Magmarran Armor
 1250 | Magmarran Belt
 1251 | Magmarran Boots
@@ -619,13 +814,19 @@
 1254 | Magmarran Helmet
 1255 | Magmarran Shoulders
 1256 | Chewed Mystic Robes
+1257 | Zardscale Boots
+1259 | Dusk Hunter's Tunic
+1262 | Zardscale Armor
 1263 | Runed Elvenguard Shoulders
 1264 | Runed Elvenguard Helm
 1265 | Runed Elvenguard Armor
 1266 | Runed Elvenguard Gloves
 1267 | Runed Elvenguard Boots
 1268 | Runed Elvenguard Belt
+1275 | Zardscale Robe
 1276 | Woodsperson's Axe
+1277 | Zardscale Gloves
+1278 | Zardscale Belt
 1281 | Chewed Zardscale Boots
 1282 | Dragonfable Sword
 1286 | Robina's Hood
@@ -672,13 +873,19 @@
 1368 | Lil' Jimmy
 1369 | Dricken Cabin Flag
 1370 | Frogzard Cabin Flag
+1371 | Campy Neckerchief
 1372 | Serious Head Injury
+1373 | Grackoon Skin Cap
 1374 | Campy Hat
+1375 | Campy Hat
 1376 | Shrade's Dagger
 1377 | Shrade's Reversed Dagger
+1378 | Gonnagetcha Harpoon
 1379 | Hockey Stick
 1380 | Gonnagetcha Axe
+1381 | Gonnagetcha Great Cleaver
 1382 | Camp Torch
+1383 | Campy Shoulders
 1385 | Dead Head
 1386 | Shrade's Masked Head
 1387 | Shrade's Sunken Mask
@@ -697,6 +904,7 @@
 1406 | Pitch Pumpkin Pail 
 1407 | Campy Mage
 1408 | Campy Rogue
+1409 | Campy Warrior
 1410 | Campy Boots
 1411 | Campy Gloves
 1412 | Campy Belt
@@ -708,6 +916,7 @@
 1421 | Trollukstein Head Morph
 1422 | UNUSED Shoulder Campy No Badges
 1423 | Shrade Minion Mask
+1424 | A Towel
 1425 | Ogreman's Smashinator
 1438 | Trollukstein Hammer
 1440 | Pumpkinmancer Robes
@@ -735,6 +944,8 @@
 1464 | Invisible Cape
 1465 | Invisible Weapon
 1466 | Head Gray Matte
+1467 | Common Darkovian Clothes
+1468 | Common Darkovian Dress
 1469 | Vampire Knight's Helmet
 1470 | Vampire Knight's Raised Visor
 1471 | ShadowSlayer W's Armor
@@ -744,11 +955,19 @@
 1475 | ShadowSlayer W's Shoulders
 1476 | ShadowSlayer W's Cloak
 1477 | ShadowSlayer W's Hat
+1478 | ShadowSlayer E's Shoulders
+1479 | ShadowSlayer E's Cloak
+1480 | ShadowSlayer E's Hat
+1481 | ShadowSlayer E's Armor
 1482 | ShadowSlayer E's Belt
 1483 | ShadowSlayer E's Boots
 1484 | ShadowSlayer E's Gloves
+1485 | ShadowSlayer E's Blade
 1486 | ShadowSlayer E's Black Blade
+1487 | ShadowSlayer E's Golden Blade
 1488 | Soul Eater
+1493 | Tarnished Dagger
+1494 | Stake Chopper
 1499 | Chiropteran Armor
 1500 | Chiropteran  Shoulders
 1501 | Chiropteran Boots
@@ -784,6 +1003,7 @@
 1536 | Eternal Chronomancer Shoulder
 1539 | Frost Defender Armor
 1540 | Eternal Chronomancer Parrying Dagger
+1541 | Meme Cape
 1542 | Frostlorn Raider Claymore
 1543 | Frostlorn Raider Mace
 1544 | Frost Defender Helm
@@ -803,12 +1023,21 @@
 1560 | Frostlorn Thawed Lance
 1561 | Frostlorn Raider Lance
 1562 | Frostlorn Raider Scythe 
+1563 | Little Dread's Silver Claw
 1564 | Bestial Wolf Claw
 1565 | Wolfhead Punch Dagger
+1566 | ShadowSlayer R's Armor
+1567 | ShadowSlayer R's Belt
+1568 | ShadowSlayer R's Boots
 1569 | ShadowSlayer R's Gloves
+1570 | ShadowSlayer R's Hat
+1571 | ShadowSlayer R's Shoulders
+1572 | ShadowSlayer R's Cloak
+1573 | ShadowSlayer R's Blade
 1577 | Copy Of ShadowSlayer R's Blade
 1578 | Vile Terrortoma Sickle
 1580 | Copy Of Copy Of ShadowSlayer R's Blade
+1582 | Dread Hood Armor
 1583 | Red Winter Scarf
 1584 | Holiday Striped Scarf 
 1585 | Ancient Evil Robes
@@ -826,15 +1055,22 @@
 1599 | Blood Vessel 
 1600 | Magic School Scarf
 1601 | Black Winter Scarf
+1602 | Festive Striped Scarf 
 1603 | Ancient Evil Gloves
 1604 | Ancient Evil Boots
+1605 | Dread Hood Cloak
+1606 | Dread Hood Cowl
+1607 | Dread Hood Mantle
 1608 | Tinfoil Cone of Protection
 1609 | Lychimera Leather Shoulders
+1610 | Dread Hood Boots
+1611 | Dread Hood Gloves
 1612 | Rod of Defiance
 1613 | Etched Dagger
 1614 | Morewolf Club
 1616 | Dark Horn
 1617 | KS Founder DragonSlayer
+1618 | Little Dread's Silver Claw II
 1619 | Frostlorn Raider Cutlass
 1620 | Frostlorn Raider Warhammer
 1621 | Blue Sweater Cape
@@ -873,13 +1109,27 @@
 1710 | Santa Gloves
 1711 | Santa Fur
 1712 | Santa Hood
+1713 | 15th Anniversary Cape
 1714 | Frostlorn Raider Staff
+1732 | Phoenix Knight Armor
+1733 | Phoenix Knight Belt
+1734 | Phoenix Knight Boots
+1735 | Phoenix Knight Gloves
+1736 | Phoenix Knight Cape
+1737 | Phoenix Knight Helm
+1738 | Phoenix Knight Shoulders
 1740 | DragonSlayer Lance
 1743 | Dragon Skull Helm
 1744 | Dragon Skull Shoulders
 1745 | Akriloth Axe
 1746 | Akriloth's Fire Blade
 1747 | Akriloth's Giant Sword
+1748 | Fire Rogue Outfit
+1749 | Fire Rogue Belt
+1750 | Fire Rogue Boots
+1751 | Fire Rogue Gloves
+1752 | Fire Rogue Hood
+1753 | Fire Rogue Shoulders
 1754 | Dragon Berserker Belt
 1755 | Dragon Berserker Boots
 1756 | Dragon Berserker Armor
@@ -923,6 +1173,7 @@
 1804 | ArchFiend's Dragon Blade
 1805 | ShadowScythe Slayer Blade
 1806 | Legion Splitblade
+1807 | Ebon Talon Helm
 1812 | Galanoth's Cloak
 1813 | Elite Dragon Champion Armor
 1814 | Elite Dragon Champion Cloak
@@ -933,6 +1184,7 @@
 1819 | Elite Dragon Champion Helm
 1820 | Elite Dragon Champion Pauldrons
 1821 | Elite Dragon Champion Wrap
+1822 | Ebon Talon Shoulderplates
 1831 | Variant Of Slifsgaard's Weapon
 1832 | Variant Of Zakaru's Blade
 1833 | Variant Of Windborne Spike
@@ -1034,6 +1286,7 @@
 1936 | Under Guardian Gloves
 1937 | Under Guardian Hood
 1938 | Under Guardian Shoulders
+1939 | Legion Horns
 1940 | Legion Skullpuncher
 1942 | Under Guardian Cape
 1943 | Legion Zealot Cloak
@@ -1060,11 +1313,27 @@
 1994 | "Blue Leather" Outfit
 1995 | Ogreman's Smash-potato-izer
 1996 | Eternal Seraphic Paladin Blade
+1997 | Dream Warden's Robes
+1998 | Dream Warden's Bracers
+1999 | Dream Warden's Grin
+2000 | Shaman's Wooden Grin
+2001 | Shaman Bones Belt
 2007 | Gonnagetcha Rogue
 2008 | Gonnagetcha  Warrior
 2009 | Gonnagetcha Mage
+2014 | Voidshard Dagger of the Jagulope
+2015 | Voidshard Sword of Bone
+2016 | Sacri'face
 2017 | Ice Spear'atual
+2018 | Jagulope Gloves
+2019 | Spirit Stone Shoulders
+2021 | Jagulope Wrap
+2022 | Jagulope Hood
+2023 | Jagulope Shadow Hood
+2024 | Jagulope Dark Rune Hood
+2025 | Jagulope Shoulders of Kra'ven
 2026 | Basic Grenwog Slasher
+2027 | Gray Panther Helm
 2028 | Reuse
 2029 | Basic Grenwog Chopper
 2030 | Basic Grenwog Smasher
@@ -1080,15 +1349,45 @@
 2040 | Superior Grenwog Slasher
 2041 | Superior Grenwog Chopper
 2042 | Superior Grenwog Smasher
+2048 | Spiritual Warrior Armor
+2049 | Spiritual Warrior Belt
 2050 | Spiritual Warrior Boots
 2051 | Spiritual Warrior Gloves
+2052 | Spiritual Warrior Helm
+2053 | Spiritual Warrior Shoulders
+2061 | Ceremonial Skull
+2062 | SoothSayer Belt
+2063 | SoothSayer Boots
+2064 | Soothsayer Armor
+2065 | SoothSayer Gloves
+2066 | SoothSayer Cloak
+2067 | ThunderBird Cape
+2068 | SoothSayer Headband
+2069 | SoothSayer Bear Helm
+2070 | SoothSayer Bird Hood
+2071 | SoothSayer Shoulders
+2072 | Falcon Spirit Helm
+2073 | Snake Spirit Helm
 2074 | Slifsgaard Armor
 2075 | Slifsgaard Belt
 2076 | Slifsgaard Boots
 2077 | Slifsgaard Gloves
 2078 | Slifsgaard Hood
 2079 | Slifsgaard Shoulders
+2081 | Wooden Root Mask
+2082 | Sacri'face of Evil
+2083 | Sacri'face of Death
 2085 | Stickrifice
+2086 | Sacri'face of Destruction
+2087 | Shaman Apprentice Robes
+2088 | Spear'atual Spear
+2089 | Spiritual Totem Armor
+2090 | Elemental Axe
+2091 | Stone Blade of Ancestors
+2104 | Earth Elemental Gem
+2105 | Air Elemental Gem
+2106 | Water Elemental Gem
+2107 | Fire Elemental Gem
 2108 | Slifsgaard's Guardian Blade
 2109 | Dread Spiders Cabin Cape
 2110 | Wild Wolves Cabin Cape
@@ -1107,14 +1406,24 @@
 2125 | Pit Shrade Full Mask
 2126 | Toasty Marshmallow
 2127 | Gonnagetcha Field Guide
+2128 | Mask Of Pain
+2129 | Mask Of Anguish
+2131 | Aspect of Fire
+2132 | Aspect of Water
+2133 | Aspect of Air
+2134 | Aspect of Earth
+2135 | Lesser Elemental Mask
 2142 | Primal Blade of Ancestors
 2143 | Primal Elemental Axe
 2144 | Voidy Cat Ears
 2145 | Reddy Ears
 2146 | Yellow Moglin Ears
+2147 | Mucus Masher
 2148 | Slime Slicer
 2149 | It's Snot a Staff
 2150 | Glop Chopper
+2151 | Nose Digger
+2152 | Primal Sacri'face
 2154 | Mushronin Armor
 2155 | Mushronin Belt
 2156 | Mushronin Boots
@@ -1155,13 +1464,17 @@
 2194 | Force Master Boots
 2195 | Force Master Gloves
 2196 | Force Master Hood
+2197 | Basic Gun
 2198 | Infernal Star Sword
+2199 | Vampy's Wings
 2200 | Defiler Bandit Armor
 2201 | Defiler Robe thing
 2202 | Defiler Bandit Belt
 2203 | Defiler Bandit Boots
+2204 | Defiler Bandit Gloves
 2205 | Defiler Cape
 2206 | Defiler Bandit Hood
+2207 | Defiler Bandit Shoulders
 2208 | Wing Hook
 2209 | Dragon Tooth Lance
 2210 | Dragon Bone Sword
@@ -1169,19 +1482,31 @@
 2212 | Boney Staff
 2213 | Fashion Police Helm
 2214 | Glasses
+2215 | Shades
 2220 | Blue Hair Gel
 2221 | Pink Kawaii Dress
 2222 | Copy Of Rugged Sash
 2223 | Bat Wings
 2224 | Hair Extensions
+2225 | Skull Hairclip
+2226 | Purple Hair Bow
+2227 | Black And Red Hair Bow
+2228 | Wicked Horns
+2229 | Head Of Horns
+2230 | Uni-horn
+2231 | Dark Unicorn Horn
 2232 | Demon Barber Razor
 2233 | Snipperhands
 2234 | Red Thick Bandana
+2235 | Thin Black Bandana
+2236 | Rainbow Unicorn Horn
 2237 | Bright Flower
 2238 | Red Rose
+2239 | Dark Flower
+2240 | Black Rose
+2241 | Burning Skull Headband
 2242 | Shio-boiiii Headband
 2243 | Warlic Style Headband
-2246 | Galanoth Surfboard 
 2247 | Brutal DragonSlayer Blade
 2248 | Chopity Chop
 2249 | Ball Head Hammer
@@ -1233,7 +1558,12 @@
 2344 | Mushogun Helm
 2345 | Mushogun Cape
 2346 | Mushogun Shoulders
+2350 | Sunkissed Swimsuit
 2360 | Green Islander Garb
+2364 | Skull Tankard
+2366 | Green Beach Towel
+2379 | Shell Axe
+2380 | Beach Bucket Hat
 2412 | Heavy Dragon Rider Armor
 2413 | Heavy Dragon Rider Belt
 2414 | Heavy Dragon Rider Boots
@@ -1256,6 +1586,12 @@
 2431 | Cold Hart Antlers
 2432 | Cold Hart Shoulders
 2433 | Cold Hart Belt
+2441 | Golden Dragon Rider Heavy Shoulders
+2436 | Golden Dragon Rider Armor
+2437 | Golden Dragon Rider Belt
+2438 | Golden Dragon Rider Boots
+2439 | Golden Dragon Rider Gloves
+2440 | Golden Dragon Rider Helm
 2442 | Noble Dragon Rider Armor
 2443 | Noble Dragon Rider  Belt
 2444 | Noble Dragon Rider Boots
@@ -1284,6 +1620,7 @@
 2470 | Paper Crown
 2471 | Cold Hart Sword
 2472 | Sauce on Your Face
+2474 | The Caretaker's Staff
 2475 | Twilly Cabin Cape
 2476 | Zorbak Cabin Cape
 2477 | Camper Flag Twilly
@@ -1301,6 +1638,9 @@
 2489 | Expert Mage Boots
 2490 | Expert Mage Gloves
 2491 | Expert Mage Cape
+2492 | Expert Mage Hat
+2493 | Expert Mage Shoulders
+2494 | Expert Mage Pauldrons
 2495 | Cryo-Shrade Skin
 2496 | Cryo-Shrade Mask
 2497 | Cryo-Shrade Hood
@@ -1312,7 +1652,13 @@
 2503 | Lost Hiker Gloves
 2504 | Lost Hiker Pack
 2506 | New Rogue Armor
+2507 | Expert Rogue Belt
+2508 | Expert Rogue Boots
+2509 | Expert Rogue Gloves
+2510 | Expert Rogue Hood
 2511 | Expert Rogue Mask
+2512 | Expert Rogue Shoulders
+2513 | Expert Rogue Pauldrons
 2514 | Robes of Mist
 2515 | Sash Of Mist
 2516 | Boots of Mist
@@ -1350,14 +1696,19 @@
 2550 | Dark Hooded Mystery Mask
 2551 | Dark Ornate Mask
 2552 | Dark Hooded Ornate Mask
+2553 | Twitch Tier 1 Cloak
 2554 | Twitch Tier 2 Cloak
 2555 | Twitch Tier 3 Cloak
 2556 | Akriloth's Gun
 2559 | Balrog Blade
 2560 | Fiendish Blood Blade
 2561 | Soul Ripper
+2563 | Carnivera Scythe
 2564 | Broken Carnivera Wand
 2569 | Carnivera Wand
+2573 | Classic Warrior Armor
+2574 | Classic Mage Robes
+2575 | Classic Rogue Outfit
 2581 | Wolf Fur Cape
 2586 | Broken Axe
 2587 | Warfiend's Hood
@@ -1386,6 +1737,7 @@
 2670 | Wealdwalker Belt
 2671 | Wealdwalker Boots
 2672 | Wealdwalker Gloves
+2673 | Wealdwalker Hood
 2674 | Wealdwalker Plates
 2675 | Aqua'Marine Earrings
 2676 | Winged Skull Hair Clip
@@ -1397,6 +1749,7 @@
 2682 | Pirate Shield
 2684 | Sea Marauder Cannons
 2685 | Fancy Pirate Armor
+2687 | Pirate Belt
 2688 | Fancy Pirate Boots
 2689 | Fancy Pirate Gloves
 2690 | Pirate Bracelets
@@ -1442,6 +1795,7 @@
 2732 | Firebeard's Magma Sword
 2733 | Necrostaff of Skarl
 2734 | Pirate Spyglass
+2735 | Bladed Tri-Pistol
 2736 | Pirate Trident
 2737 | Sea Marauder Armor
 2738 | Sea Marauder Boots
@@ -1467,6 +1821,7 @@
 2761 | Dirty Pirate Hat
 2763 | Pirate Bandana
 2765 | Sea Maruader Twin Daggers
+2772 | Ruby the Parrot
 2773 | Paulie the Parrot
 2774 | Clawgmurai Sword
 2778 | Pirate Ship Wheel
@@ -1572,6 +1927,7 @@
 2983 | Vampire Guard Halberd
 2984 | Darkovian Formal Attire
 2985 | Darkovian Formal Suit
+2986 | Werewolf Hunting Gun
 2987 | Searing Vampire Blade
 2988 | Vampire Great Sword
 2989 | Bloodguard Great Sword
@@ -1604,6 +1960,7 @@
 3016 | Pet Handler Outfit
 3017 | Pet Handling Gloves
 3018 | Corrupted TimeSlicer
+3023 | Guardianzard Pet
 3037 | Corrupted Hourglass Pet
 3040 | Placeholder Rusty Pet
 3046 | Back-Kick Plush
@@ -1624,9 +1981,11 @@
 3071 | Special Cape
 3072 | Leafy Pet
 3075 | Legion Anguish Scythe
+3077 | Day Walker Armor
 3078 | Day Walker Belt
 3079 | Day Walker Boots
 3080 | Day Walker Gloves
+3081 | Day Walker Glasses
 3082 | Vampiric Visage
 3085 | Barbarian Spiked Shoulderpads
 3086 | Barbarian Dragon Berserker Armor
@@ -1665,6 +2024,12 @@
 3120 | Blood Vampire Lance
 3121 | Gold Vampire Lance
 3122 | Monster Stalker Sword
+3124 | Shadow Specter Belt
+3125 | Shadow Specter Boots
+3126 | Shadow Specter Gloves
+3127 | Shadow Specter Skull Hood
+3128 | Shadow Specter Shoulder
+3129 | Shadow Specter Cloak
 3130 | Sentinel Greataxe
 3131 | Mizu Wakizashi
 3132 | Vile Deathshead
@@ -1691,6 +2056,7 @@
 3158 | Black Knight Greaves
 3159 | Black Knight Boots
 3160 | Black Knight Gloves
+3162 | Black Knight Horns
 3163 | Black Knight Helm
 3164 | Horned Black Knight Helm
 3165 | Black Knight Pauldrons
@@ -1702,14 +2068,53 @@
 3171 | Royal Talon Helm
 3172 | Silvered Talon Helm
 3173 | Royal Talon Shoulderplates
+3174 | Silvered Talon Shoulderplates
+3176 | Shadow Specter Armor
+3177 | Dilligaf Belt
+3178 | Dilligaf Boots
+3179 | Dilligaf Armor
+3180 | Dilligaf Gloves
+3181 | Dilligaf's Cloak
+3182 | Dilligaf Helm
+3183 | Dilligaf Shoulders
 3184 | Thok Armor
 3185 | Thok Belt
+3186 | Thok Boots
 3187 | Thok Gloves
 3188 | Thok Shoulders
+3189 | The Vindicator Armor
+3190 | The Vindicator Belt
+3191 | The Vindicator Boots
+3192 | The Vindicator Gloves
+3193 | The Vindicator Cloak
+3194 | The Vindicator Shoulders
 3195 | The Vindicator Hammer
 3196 | Dilligaf's Sword
+3197 | Undead Paladin Armor
+3198 | Undead Paladin Belt
+3199 | Undead Paladin Boots
+3200 | Undead Paladin Gloves
+3201 | Undead Paladin Cape
+3202 | Undead Paladin Helmed Head
+3203 | Undead Paladin Head
+3204 | Undead Paladin Helm
+3205 | Undead Paladin Shoulders
 3206 | Undead Paladin Sword
+3207 | Dragon Guard Armor
+3208 | Dragon Guard Belt
+3209 | Dragon Guard Boots
+3210 | Dragon Guard Gloves
 3211 | Undead Paladin Hammer
+3216 | Dragon Guard Cape
+3217 | Dragon Guard Helm
+3218 | Dragon Guard Shoulders
+3220 | Hero Of The Sun Armor
+3221 | Hero Of The Sun Belt
+3222 | Hero Of The Sun Boots
+3223 | Hero Of The Sun Gloves
+3224 | Hero Of The Sun Cape
+3225 | Hero Of The Sun Helm
+3226 | Hero Of The Sun Shoulders
 3227 | Ray Of Virtue Sword
 3228 | Ray Of Honor Polearm
 3229 | CC Basic Mage Armor
@@ -1726,6 +2131,13 @@
 3251 | Toy Soldier Head
 3252 | Toy Soldier Hat
 3253 | Toy Soldier Shoulders
+3254 | Storm Defender Armor
+3255 | Storm Defender Pauldrons
+3256 | Storm Defender Gloves
+3257 | Storm Defender Boots
+3258 | Storm Defender Belt
+3259 | Storm Defender Helm
+3260 | Storm Defender Shield
 3261 | Storm Defender Raised Helm
 3262 | Tangled Lights
 3266 | Snow Man Head
@@ -1817,7 +2229,9 @@
 3358 | Frostlorn Necro Fur
 3359 | Frostlorn Necro Shoulders
 3360 | Frostlorn Necro Staff
+3361 | Baby Reindragon
 3363 | Icy Edge
+3364 | Ice Blaster
 3365 | Frostlorn Full Horns
 3366 | Icy Gauntlets
 3367 | IceHorde
@@ -1886,30 +2300,33 @@
 3469 | Trolluk Cape
 3470 | Pebblar Plate Helm
 3471 | Pebblar Head
+3472 | Pebble Shooter
 3475 | Moglomancer-Z Armor
 3476 | Moglomancer-Z Belt
 3477 | Moglomancer-Z Boots
 3478 | Moglomancer-Z Gloves
 3479 | Moglomancer-Z Hood
 3480 | Moglomancer-Z Shoulders
-3481 | KS Founder Guardian II
 3482 | Thyton's Spiked Hammer
 3483 | Thyton's Ninjato
 3484 | Thyton's Dual Ninjatos
 3485 | Korin's Chef Hat
 3486 | Korin's Bag-O-Love
+3487 | Lightbringer Armor
 3488 | Lightbringer Belt
 3489 | Lightbringer Boots
 3490 | Lightbringer Gloves
 3491 | Lightbringer Helm
 3492 | Lightbringer Shoulders
 3493 | Shadow Walker Armor
+3494 | Shadow Walker Belt
 3495 | Shadow Walker Boots
 3496 | Shadow Walker Gloves
 3497 | Shadow Walker Scarf
 3498 | Shadow Walker Helm
 3499 | Shadow Walker Shoulders
 3500 | Bladed Wings
+3501 | Ninja Face Mask
 3502 | Ninja Oni Mask
 3504 | Thyton's Dual Kamas
 3505 | Thyton's Guillotines
@@ -1935,6 +2352,7 @@
 3527 | White Rose Gloves
 3528 | Rose Knight Belt
 3529 | White Rose Belt
+3530 | Red Rose In Mouth
 3531 | Pink Rose in Mouth
 3532 | Rose Daggers
 3533 | Rose Knight Blade & Shield
@@ -1947,6 +2365,7 @@
 3540 | Rose Knight Shoulders
 3541 | White Rose Shoulders
 3542 | Heroes Heart Pet
+3543 | Pistols N Roses
 3544 | White Rose Robe
 3545 | Rose Knight Robe
 3546 | Pink Rose Hairclip
@@ -1960,18 +2379,41 @@
 3582 | Legion Reavers
 3583 | Undead Korin Bag
 3584 | Weapon Legion Katana2019
+3586 | Paladin Belt
+3588 | Paladin Gloves
+3589 | Paladin Winged Helm
+3591 | Paladin Cape & Shield
+3592 | Xargoul's Hood and Crown
+3593 | Undead Crown and Chain Hood 
 3594 | Xargoul's Crown
 3595 | Crown of the Dead
+3596 | Paladin Helm
+3597 | Ferryman Scythe
+3599 | Loathsome Doomwood Sword
 3600 | Loathsome Doomwood Dagger
 3601 | Loathsome Doomwood Hammer
+3602 | Sallow Edge
 3603 | Loathsome Doomwood Staff
+3604 | Sallow Lancet
 3605 | Loathsome Doomwood Handaxe
+3606 | Sallow Hammer
+3607 | Sallow Staff
+3608 | Sallow Hatchet
+3609 | Legion Heretic Armor
+3610 | Legion Heretic Belt
+3611 | Legion Heretic Boots
+3612 | Legion Heretic Gloves
+3613 | Legion Heretic Helm
+3614 | Legion Heretic Mask
+3615 | Legion Heretic Shoulders
+3616 | Legion Heretic Back Ring
 3617 | Legion Heretic Blade
 3618 | Legion Heretic Spear
 3622 | Legionomicron Pet
 3623 | Legion Dravir Wings
 3625 | Legion Dual Katanas
 3626 | Legion Backhands
+3627 | Chibi Dage Pet
 3630 | Legion Marauder Armor
 3631 | Legion Marauder Belt
 3632 | Legion Marauder Boots
@@ -1989,15 +2431,35 @@
 3644 | Legion Ascendant Staff
 3657 | Korin's Gettin' Lucky Bag
 3660 | Legion Marauder Pauldrons
+3667 | Legion Pistols
 3689 | KS Founder Necromancer
+3690 | Necromancer Robes
+3691 | Necromancer Gloves
+3692 | Necromancer Shoulders
+3693 | Necromancer Single Shoulder
+3694 | Necromancer Hood
 3695 | KS Founder Paladin
 3708 | NecroStaff of Doom
 3709 | Awoken NecroStaff of Doom
+3710 | Empowered NecroStaff of Doom
+3711 | Necromancer Belt
+3712 | Necromancer Boots
+3718 | Lore Strider Armor
+3719 | Lore Strider Belt
+3720 | Lore Strider Boots
+3721 | Lore Strider Gloves
+3722 | Lore Strider Shoulders
+3723 | Lore Strider Single Shoulder
+3724 | Lore Strider Cape
+3725 | Lore Strider Crown
+3726 | Full Boneblade
+3727 | Cursed Boneblade
 3728 | Grinderblade
 3729 | Cursed Grinderblade
 3730 | Forceful NecroStaff of Doom
 3731 | Unleashed NecroStaff of Doom
 3732 | Immortal NecroStaff of Doom
+3741 | Necronomicon Belt
 3742 | Crushed Korin Bag
 3743 | Doom Wood Scepter
 3744 | Necro Halberd
@@ -2026,6 +2488,7 @@
 3781 | Darkened Staff
 3782 | Darkened Dagger
 3783 | Darkened Sword
+3784 | Voidedge Pistol
 3785 | Voidedge Lance
 3786 | Voidedge  Longsword
 3787 | Voidedge Shortsword
@@ -2069,12 +2532,21 @@
 3865 | Cosmic Dual Scythes
 3866 | 8-bit Cartridge Backpack
 3867 | 8-bit Cartridge Pet
+3868 | Herald Of Hope Armor
+3869 | Herald Of Hope Belt
+3870 | Herald Of Hope Boots
+3871 | Herald Of Hope Gloves
+3872 | Herald Of Hope Cape
+3873 | Herald Of Hope Helmet
+3874 | Herald Of Hope Shoulders
+3875 | Rapier Of Hope
 3888 | White Gloves
 3889 | Mysterious Johnson Cape
 3890 | Bush Head 
 3891 | Barrel Head
 3892 | Crate Head
 3893 | Emperor's Chest Head
+3894 | Great Fire Dragon Head
 3895 | Giant Eyeball Head
 3896 | Trolluk Head
 3897 | Dravir Head
@@ -2097,6 +2569,7 @@
 3914 | Unicorn Staff
 3915 | Undead Unicorn Staff
 3918 | Mysterious Outfit
+3919 | Mysterious Gloves
 3920 | Mysterious Top Hat
 3921 | Mysterious Cane
 3922 | Master Myrzor Back Shield
@@ -2109,17 +2582,36 @@
 3930 | Tusked Kama
 3931 | Tusked Face Shield
 3932 | Broken Trophy
-3934 | Squirt Gun
 3939 | Black Cat
 3940 | Orange Tabby Cat
 3941 | Smokey Cat
+3942 | Angelic Wings Helm
+3943 | Demonic Wings Helm
+3969 | The Hardened Scale Slayer Companion
 3970 | The Hardened Scale Slayer
-4034 | Legion Back Surfboard
+3971 | Hardened Scale Slayer Shoulders
+3972 | Hardened Scale Slayer Helm
+3973 | Hardened Scale Slayer Gauntlets
+3974 | Hardened Scale Slayer Greaves
+3975 | Hardened Scale Slayer Belt
+3976 | Hardened Scale Slayer Armor
+3983 | Hulking Trophy
 4035 | Crate Codex
+4038 | Salamander Battleaxe
+4039 | Salamander Hand-Axe 
 4040 | Shoulder Claudia Shoulders
 4041 | Claudia Armor
+4062 | Salamander Armor
+4063 | Salamander Shoulder
+4064 | Salamander Mask
+4065 | Salamander Fascade
+4066 | Salamander Sandles
+4067 | Salamander Gloves
+4068 | Salamander Belt
+4076 | Salamander Cape
 4078 | Korin's Bag of Combustion
 4079 | Korin's Bag of Confusion
+4080 | Korin's Bag of Fabulousness
 4081 | Crescent Wolf Glaives
 4091 | Wind-Up C.A.T.E.
 4092 | Archmage Arziir's Robes
@@ -2134,6 +2626,7 @@
 4101 | Tyrus Kel's Cape
 4102 | Tyrus Kel's Hat
 4103 | Tyrus Kel's Shoulders
+4104 | Exvidius's Armored Robes
 4105 | Exvidius's Belt
 4106 | Exvidius's Cape
 4107 | Exvidius's Helm
@@ -2150,14 +2643,45 @@
 4118 | Pinfeather Star Wand
 4119 | Arcangrove Stasier
 4120 | Exvidius's Stasier
+4121 | Heavy Arcane Amulet
 4122 | Dark Destiny
+4123 | Sentinel Sword
+4124 | Sentinel Daggers
+4125 | Radiant Sentinel Runeblade
 4126 | Arcane Mana Spellmace
 4127 | Infused Crystal Blade
 4128 | Emerald Chromabeam
 4129 | Arcane Toxic Spellmace
 4130 | Reinforced Energy Spellmace
+4131 | Arcangrove Sentinel Armor
+4132 | Arcangrove Sentinel Belt
+4133 | Arcangrove Sentinel Boots
+4134 | Arcangrove Sentinel Gloves
+4135 | Arcangrove Sentinel Cape
+4136 | Arcangrove Sentinel Shoulders
+4137 | Arcangrove Sentinel Helm
+4138 | Arcangrove Elite Helmet
+4139 | Arcangrove Sentinel Visage
+4140 | Crescent Wolf Trophy
+4141 | Potent Crescent Wolf Trophy
 4155 | Thok's Old Boots
+4158 | Crescent Wolf Slayer Armor
+4159 | Crescent Wolf Slayer Belt
+4160 | Crescent Wolf Slayer Boots
+4161 | Crescent Wolf Slayer Pelt
+4162 | Crescent Wolf Slayer Gloves
+4163 | Crescent Wolf Slayer Helm
+4164 | Crescent Wolf Slayer Hood
+4165 | Crescent Wolf Slayer Shoulders
+4166 | Rayst's Robes
+4167 | Rayst's Belt
 4168 | Rayst's Gloves
+4169 | Rayst's Cape
+4170 | Rayst's Shoulders
+4171 | Scepter of Magus
+4172 | Magus Staff
+4173 | Derpihorn
+4174 | Sick Unicorn Horn
 4176 | Sindria's Robes
 4177 | Sindria's Belt
 4178 | Sindria's Cape
@@ -2166,6 +2690,8 @@
 4182 | Red Mage Robe
 4183 | Noobie Mage Scarf
 4184 | Esobard's Robes
+4185 | Crescent Wolf Slayer Robe
+4186 | Crescent Wolf Slayer Grips
 4187 | Archmage Staff
 4188 | Void Charged Staff
 4189 | Special Unicorn
