@@ -24,14 +24,8 @@ lists = [
 list_png = [i for i in lists if i[1].endswith(".png") or i[1].endswith(".PNG")]
 list_jpg = [i for i in lists if i[1].endswith(".jpg") or i[1].endswith(".JPG")]
 
-[
-    os.system(f"wget -O {os.path.dirname(__file__)}/../assets/items_male/{liste[0]}.png {liste[1]}")
-    for liste in list_png[:10]
-]
-[
-    os.system(f"wget -O {os.path.dirname(__file__)}/../assets/items_male/{liste[0]}.jpg {liste[1]}")
-    for liste in list_jpg[:10]
-]
+[os.system(f"wget -O {os.path.dirname(__file__)}/../assets/items_male/{liste[0]}.png {liste[1]}") for liste in list_png]
+[os.system(f"wget -O {os.path.dirname(__file__)}/../assets/items_male/{liste[0]}.jpg {liste[1]}") for liste in list_jpg]
 
 
 # print(lists)

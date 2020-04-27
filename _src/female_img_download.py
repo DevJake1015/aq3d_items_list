@@ -26,11 +26,11 @@ list_jpg = [i for i in lists if i[1].endswith(".jpg") or i[1].endswith(".JPG")]
 
 [
     os.system(f"wget -O {os.path.dirname(__file__)}/../assets/items_female/{liste[0]}.png {liste[1]}")
-    for liste in list_png[:10]
+    for liste in list_png
 ]
 [
     os.system(f"wget -O {os.path.dirname(__file__)}/../assets/items_female/{liste[0]}.jpg {liste[1]}")
-    for liste in list_jpg[:10]
+    for liste in list_jpg
 ]
 
 
